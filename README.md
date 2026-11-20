@@ -41,9 +41,6 @@ The design follows a modular, hierarchical mixed-architecture approach emphasizi
 ### Elaborated RTL Schematic (Xilinx Vivado)
 ![RTL Schematic](rtl_schematic.png)
 
-### System Overview & Signal Declaration
-![System Declaration](decleration.png)
-
 ---
 
 ## Functional Verification (`ITI_BQS_TB.v`)
